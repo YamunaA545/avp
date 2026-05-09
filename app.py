@@ -1,4 +1,3 @@
-app.py
 import streamlit as st
 import PyPDF2
 from gtts import gTTS
